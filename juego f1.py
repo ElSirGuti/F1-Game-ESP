@@ -1,4 +1,4 @@
-#imports (estos dos no se como aparecieron, llegaron solitos como veneco en lima)
+#imports (estos dos no se como aparecieron, llegaron solitos XD)
 from ast import Break
 from operator import truediv
 #random para los eventos aleatorios
